@@ -20,21 +20,25 @@
 
 🛠️ Tech Stack:
 
-* C++
-* Python
-* TypeScript
-* JavaScript
-* React
-* Next.js
-* FastAPI
-* Node.js
-* Express
-* MongoDB
-* PostgreSQL
-* NumPy
-* Pandas
-* Scikit-learn
-* Matplotlib
-* Git & GitHub
+🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-grey?style=flat)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikitlearn)
 
 ⚡ I enjoy building meaningful projects and improving through real-world applications.
