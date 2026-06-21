@@ -11,9 +11,6 @@
 * Data Structures & Algorithms (DSA)
 * Building meaningful full-stack and AI projects
 
-
-🛠️ Tech Stack
-
 🛠️ Tech Stack
 
 Languages: 
